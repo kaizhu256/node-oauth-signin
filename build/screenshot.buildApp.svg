@@ -1,9 +1,9 @@
-<svg height="798" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="798" fill="#555" width="720"></rect>
+<svg height="1006" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1006" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
 
-<tspan x="10" y="42">\x1b[35m[MODE_BUILD=buildApp]\x1b[0m - 2019-11-01T23:55:51.317Z - npm-testing /home/travis/build\</tspan>
+<tspan x="10" y="42">\x1b[35m[MODE_BUILD=buildApp]\x1b[0m - 2019-11-01T23:59:14.879Z - npm-testing /home/travis/build\</tspan>
 <tspan x="10" y="58">/kaizhu256/node-oauth-signin</tspan>
 
 <tspan x="10" y="74"></tspan>
@@ -13,82 +13,103 @@
 <tspan x="10" y="106">buildApp - merged test-report from file /home/travis/build/kaizhu256/node-oauth-signin/tmp/build\</tspan>
 <tspan x="10" y="122">/test-report.json</tspan>
 
-<tspan x="10" y="138">&gt; http-server listening on port 58340</tspan>
+<tspan x="10" y="138">&gt; http-server listening on port 37804</tspan>
 
 <tspan x="10" y="154"></tspan>
 
 <tspan x="10" y="170">buildApp - merged test-report from file /home/travis/build/kaizhu256/node-oauth-signin/tmp/build\</tspan>
 <tspan x="10" y="186">/test-report.json</tspan>
 
-<tspan x="10" y="202">jslint - 423ms /home/travis/build/kaizhu256/node-oauth-signin/README.md</tspan>
+<tspan x="10" y="202">jslint - 402ms /home/travis/build/kaizhu256/node-oauth-signin/README.md</tspan>
 
-<tspan x="10" y="218">jslint - 85ms /home/travis/build/kaizhu256/node-oauth-signin/lib.oauth_signin.js</tspan>
+<tspan x="10" y="218">jslint - 80ms /home/travis/build/kaizhu256/node-oauth-signin/lib.oauth_signin.js</tspan>
 
-<tspan x="10" y="234">jslint - 2ms /home/travis/build/kaizhu256/node-oauth-signin/npm_scripts.sh</tspan>
+<tspan x="10" y="234">jslint - 1ms /home/travis/build/kaizhu256/node-oauth-signin/npm_scripts.sh</tspan>
 
 <tspan x="10" y="250">jslint - 4ms /home/travis/build/kaizhu256/node-oauth-signin/package.json</tspan>
 
-<tspan x="10" y="266">jslint - 49ms /home/travis/build/kaizhu256/node-oauth-signin/test.js</tspan>
+<tspan x="10" y="266">jslint - 166ms /home/travis/build/kaizhu256/node-oauth-signin/test.js</tspan>
 
-<tspan x="10" y="282">testRunDefault - 96140 ms - testCase pending - testCase_buildApp_default ...</tspan>
+<tspan x="10" y="282">http-server listening on port 45985</tspan>
 
-<tspan x="10" y="298">http-server listening on port 35655</tspan>
+<tspan x="10" y="298">testRunDefault - 301814 ms - testCase pending - testCase_buildApp_default ...</tspan>
 
-<tspan x="10" y="314">testRunDefault - 100146 ms - testCase pending - testCase_buildApp_default ...</tspan>
+<tspan x="10" y="314">testRunDefault - 304989 ms - [node test-case 1 of 1 passed] - testCase_buildApp_default</tspan>
 
-<tspan x="10" y="330">testRunDefault - 101375 ms - [node test-case 1 of 1 passed] - testCase_buildApp_default</tspan>
+<tspan x="10" y="330"></tspan>
 
-<tspan x="10" y="346"></tspan>
+<tspan x="10" y="346">buildApp - merged test-report from file /home/travis/build/kaizhu256/node-oauth-signin/tmp/build\</tspan>
+<tspan x="10" y="362">/test-report.json</tspan>
 
-<tspan x="10" y="362">buildApp - merged test-report from file /home/travis/build/kaizhu256/node-oauth-signin/tmp/build\</tspan>
-<tspan x="10" y="378">/test-report.json</tspan>
+<tspan x="10" y="378"></tspan>
 
-<tspan x="10" y="394"></tspan>
+<tspan x="10" y="394">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="410">-------------------------------------------------------</tspan>
+<tspan x="10" y="410">| test-report - buildApidoc - node - linux v13.0.1 - 2019-11-01T23:54:17.531Z</tspan>
 
-<tspan x="10" y="426">| test-report - buildApidoc - node - linux v13.0.1 - 2019-11-01T23:54:17.531Z</tspan>
+<tspan x="10" y="426">|  304990 ms            0 failed        1 passed      |</tspan>
 
-<tspan x="10" y="442">|  101376 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="442">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="458">-------------------------------------------------------</tspan>
+<tspan x="10" y="458">| test-report - buildApp - node - linux v13.0.1 - 2019-11-01T23:53:59.396Z</tspan>
 
-<tspan x="10" y="474">| test-report - buildApp - node - linux v13.0.1 - 2019-11-01T23:53:59.396Z</tspan>
+<tspan x="10" y="474">|   16692 ms            0 failed        7 passed      |</tspan>
 
-<tspan x="10" y="490">|   16692 ms            0 failed        7 passed      |</tspan>
+<tspan x="10" y="490">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="506">-------------------------------------------------------</tspan>
+<tspan x="10" y="506">| test-report - deployGithubTest - browser - /node-oauth-signin/build..alpha..travis-ci.org/app/\</tspan>
+<tspan x="10" y="522"> - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.39\</tspan>
+<tspan x="10" y="538">04.87 Safari/537.36 - 2019-11-01T23:56:42.115Z</tspan>
 
-<tspan x="10" y="522">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="538">L, like Gecko) HeadlessChrome/78.0.3904.87 Safari/537.36 - 2019-11-01T23:54:11.807Z</tspan>
-
-<tspan x="10" y="554">|      17 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="554">|      30 ms            0 failed        1 passed      |</tspan>
 
 <tspan x="10" y="570">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="586">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="602">L, like Gecko) HeadlessChrome/78.0.3904.87 Safari/537.36 - 2019-11-01T23:55:41.354Z</tspan>
+<tspan x="10" y="586">| test-report - deployGithubTest - browser - /node-oauth-signin/build..alpha..travis-ci.org/app/\</tspan>
+<tspan x="10" y="602"> - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.39\</tspan>
+<tspan x="10" y="618">04.87 Safari/537.36 - 2019-11-01T23:56:42.132Z</tspan>
 
-<tspan x="10" y="618">|      21 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="634">|      34 ms            0 failed        1 passed      |</tspan>
 
-<tspan x="10" y="634">-------------------------------------------------------</tspan>
+<tspan x="10" y="650">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="650"></tspan>
+<tspan x="10" y="666">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="682">L, like Gecko) HeadlessChrome/78.0.3904.87 Safari/537.36 - 2019-11-01T23:54:11.807Z</tspan>
 
-<tspan x="10" y="666">created test-report file /home/travis/build/kaizhu256/node-oauth-signin/tmp/build/test-report.ht\</tspan>
-<tspan x="10" y="682">ml</tspan>
+<tspan x="10" y="698">|      17 ms            0 failed        1 passed      |</tspan>
 
-<tspan x="10" y="698"></tspan>
+<tspan x="10" y="714">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="714"></tspan>
+<tspan x="10" y="730">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="746">L, like Gecko) HeadlessChrome/78.0.3904.87 Safari/537.36 - 2019-11-01T23:55:41.354Z</tspan>
 
-<tspan x="10" y="730">buildApp - 0 failed tests</tspan>
+<tspan x="10" y="762">|      21 ms            0 failed        1 passed      |</tspan>
 
-<tspan x="10" y="746"></tspan>
+<tspan x="10" y="778">-------------------------------------------------------</tspan>
 
-<tspan x="10" y="762"></tspan>
+<tspan x="10" y="794">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
+<tspan x="10" y="810">L, like Gecko) HeadlessChrome/78.0.3904.87 Safari/537.36 - 2019-11-01T23:59:05.031Z</tspan>
 
-<tspan x="10" y="778">\x1b[35m[MODE_BUILD=buildApp]\x1b[0m - 2019-11-01T23:55:59.261Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="826">|      19 ms            0 failed        1 passed      |</tspan>
+
+<tspan x="10" y="842">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="858"></tspan>
+
+<tspan x="10" y="874">created test-report file /home/travis/build/kaizhu256/node-oauth-signin/tmp/build/test-report.ht\</tspan>
+<tspan x="10" y="890">ml</tspan>
+
+<tspan x="10" y="906"></tspan>
+
+<tspan x="10" y="922"></tspan>
+
+<tspan x="10" y="938">buildApp - 0 failed tests</tspan>
+
+<tspan x="10" y="954"></tspan>
+
+<tspan x="10" y="970"></tspan>
+
+<tspan x="10" y="986">\x1b[35m[MODE_BUILD=buildApp]\x1b[0m - 2019-11-01T23:59:22.869Z - EXIT_CODE - 0</tspan>
 
 </text>
 </svg>

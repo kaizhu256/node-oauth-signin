@@ -69377,7 +69377,7 @@ local.stateInit({
 /* jslint ignore:start */
 local.assetsDict["/assets.oauth_signin.js"] = "// usr/bin/env node\n\
 /*\n\
- * lib.oauth_signin.js (0.0.1)\n\
+ * lib.oauth_signin.js (2019.11.1)\n\
  * https://github.com/kaizhu256/node-oauth-signin\n\
  * the greatest app in the world!\n\
  *\n\
@@ -69801,7 +69801,7 @@ return;\n\
 
 // usr/bin/env node
 /*
- * lib.oauth_signin.js (0.0.1)
+ * lib.oauth_signin.js (2019.11.1)
  * https://github.com/kaizhu256/node-oauth-signin
  * the greatest app in the world!
  *

@@ -1,6 +1,6 @@
 // usr/bin/env node
 /*
- * lib.oauth_signin.js (0.0.1)
+ * lib.oauth_signin.js (2019.11.1)
  * https://github.com/kaizhu256/node-oauth-signin
  * the greatest app in the world!
  *
